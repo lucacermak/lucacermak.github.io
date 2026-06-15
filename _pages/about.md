@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**Hi there 👋**"
+title: "**Luca Cermak**"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
