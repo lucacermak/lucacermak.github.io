@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate and Graduate Seminar"
 permalink: /teaching/applied-micro-seminar
 venue: "Ulm University, Institute of Economics"
-date: 2023-01-01
 location: "Ulm 🇩🇪"
 ---
 
