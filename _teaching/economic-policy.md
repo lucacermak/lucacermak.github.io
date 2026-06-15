@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/economic-policy
 venue: "Ulm University, Institute of Economics"
-date: 2023-01-01
 location: "Ulm 🇩🇪"
 ---
 
