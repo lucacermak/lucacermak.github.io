@@ -14,7 +14,7 @@ description              : &description "This is my personal github website."
 url                      : https://econluca.github.io 
 baseurl                  : "" 
 repository               : "econluca.github.io"
-teaser                   : "Bild.png"
+teaser                   : "luca-cermak.1024x1024.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
