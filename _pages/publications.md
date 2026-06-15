@@ -1,41 +1,48 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research \& Working Papers"
 permalink: /publications/
 author_profile: true
 ---
 
-
-<!---
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
+My research focuses on **Behavioral Labor Economics** and **Organizational Economics**, investigating how psychological pressure, cognitive biases, and institutional constraints shape decision-making in high-stakes environments.
 
-### Currently I do not have any publications. ###
+---
 
-I worked on several topics during my studies and wrote some theses. You find them here:
+## **Working Papers**
 
-# Master level #
-* Master thesis: **Managerial Risk-taking - Evidence from the German Bundesliga**, Università degli studi di Pavia & Eberhard Karls Universität Tübingen (07/2023)
+### **[The Negative Productivity of Strategic Flexibility: Evidence from a Natural Experiment in Football](https://ssrn.com/abstract=5388421)**
+*Job Market Paper | Single Authored*  
+**[Download Working Paper (PDF)](https://ssrn.com/abstract=5388421)**  
+*Abstract:* This paper exploits an exogenous rule change in professional football to isolate the causal effect of strategic flexibility on team performance. Using an instrumental variable approach, I show that increased choice in loss frames actually reduces productivity, highlighting a novel behavioral friction in high-stakes environments.
 
-# Bachelor level #
+### **Resilient Workers, Biased Evaluators: Disentangling Performance from Assessment**
+*With Alexander Rieber \& Dennis Steinle*  
+*Working Paper available upon request.*  
+*Abstract:* By comparing objective, algorithmic performance metrics with subjective journalist ratings during empty-stadium "ghost games," we show that minority workers' objective output is remarkably resilient to hostile environments. Subjective evaluators, however, systematically penalize them—a bias that disappears when the hostile crowd is removed. 
 
-### Economics ###
-* Bachelor thesis: **Effects of Expectations and Changes in Strategy in Professional Football Using the Example of the Bundesliga - a Behavioral Economic Analysis**, Ulm University (2021, in German) <a href="https://github.com/EconLuca/econluca.github.io/blob/0fd00f12e99d032f483d814cdfee7ac7969e56d1/files/Bachelorarbeit_Cermak_neuste%20Fassung.pdf" target="_blank">PDF.</a>
-* Seminar thesis: **Pay what you want: Reciprocity as a Business Model?**, Ulm University (2020, in German)
+### **Doing Less, Trying Harder: Task Scarcity and Organizational Intensification**
+*With Alexander Rieber \& Dennis Steinle*  
+*Working Paper available upon request.*  
+*Abstract:* We exploit the 2023 contraction of the French Ligue 1 from 20 to 18 teams to show that mandated reductions in work episodes can trigger severe organizational intensification. Faced with a compressed margin for error, managers consolidate playing time on core specialists, while players respond with a 31% increase in tactical aggression.
 
+### **[A Comment on ‘The Opportunity Cost of Debt Aversion’](https://www.i4r.org)**
+*With Simon Maier, Sabrina Rittinger \& Dennis Steinle*  
+*I4R Discussion Paper*
 
-### Psychology ###
-* Seminar thesis: **Machine Learning in Psychological Diagnostics - State of the Art**, Ulm University (2022, in German)
-* Seminar thesis: **Home-Office and Boundary Crossing**, Ulm University (2021, in German)
-* Seminar thesis: **Measures to Encourage Motivation among first-year Students using the Example of Mathematics at the Ulm University**, Ulm University (2020, in German)
-* Seminar thesis: **Systematic Review of Stress-reducing Effects of Forest Bathing in Young Adults**, Ulm University (2020, in German)
-* Seminar thesis: **Influence of auditory-cognitive Information Processing on the Mental Load of the Driver and on the Driving Performance**, Ulm University (2020, in German) 
-* Seminar thesis: **On the Importance of Psychotherapy in Oncology**, Ulm University (2020, in German)
+---
+
+## **Selected Work in Progress**
+
+*   **Debt Aversion in the Mortgage Market: Evidence from Administrative Bank Data**  
+    *With Simon Maier, Sabrina Rittinger, Alexander Rieber, Stefan Schelling \& Dennis Steinle*  
+    *In collaboration with a major German regional bank.*
+*   **De-Biasing Debt Aversion: The Role of Choice Architecture in Financial Decisions**  
+    *With Simon Maier, Sabrina Rittinger, Alexander Rieber \& Dennis Steinle*  
+    *Awarded the Vernon L. Smith Young Talent Award 2026.*
+*   **Drive Any Car You Want, As Long As It's White: Car Color and Accidents in Turkmenistan**  
+    *With Simon Maier*
+*   **The Price of Trust: Isolating Demand Shocks Following the 737 MAX Crashes**  
+    *Single Authored.*
