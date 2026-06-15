@@ -17,7 +17,7 @@ Research Interests
 Education
 ======
 *   **Ph.D. Candidate in Economics**, Ulm University (08/2023 – Present)  
-    *Advisors: Georg Gebhardt, Simeon Schudy*
+    *Advisor: Georg Gebhardt*
 *   **Laurea Magistrale (M.Sc. equiv.) in Economics and Finance**, University of Pavia (Double Degree) (09/2022 – 07/2023)
 *   **M.Sc. in European Economics**, University of Tübingen (10/2021 – 07/2023)
 *   **B.Sc. in Psychology**, Ulm University (10/2017 – 05/2022)
