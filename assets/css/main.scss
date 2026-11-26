@@ -39,3 +39,38 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Eigene Anpassungen: Schrift und Gewichte
+   Segoe UI wird auf Windows genutzt, sonst das freie, lokal gehostete Inter.
+   ========================================================================== */
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/inter-latin-300-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/inter-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/inter-latin-600-normal.woff2") format("woff2");
+}
+
+body {
+  font-weight: 350; /* Segoe UI Semilight auf Windows, sonst Inter zwischen Light und Regular */
+}
+
+h1, h2, h3, h4, strong, b, .page__title, .author__name {
+  font-weight: 600;
+}

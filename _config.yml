@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "de-DE"
+locale                   : "en-US"
 title                    : "Luca Cermak"
 title_separator          : "-"
 name                     : &name "Luca Cermak"
-description              : &description "This is my personal github website."
+description              : &description "Luca Cermak, Ph.D. candidate in economics at Ulm University. Research on behavioral biases in high-stakes decisions."
 url                      : https://lucacermak.github.io 
 baseurl                  : "" 
 repository               : "lucacermak.github.io"
@@ -73,17 +73,17 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Luca"
+  name             : "Luca Cermak"
   avatar           : "luca-cermak.1024x1024.jpg"
-  bio              : "Behavioral Economics"
-  location         : 
+  bio              : "Ph.D. Candidate in Economics"
+  location         : "Ulm, Germany"
   employer         : "Ulm University"
   pubmed           : 
   googlescholar    : 
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "luca-cermak/"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0007-1795-0327"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
